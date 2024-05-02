@@ -64,7 +64,7 @@ public class Universidad {
     }
     
     public String toString() {
-        return  "La Estudiante " + nombreEstudiante + " Con las siguentes calificaciones " + califMateria1 +", "+ califMateria2 + ", "+califMateria3 +". su promedio es " + promedioCalificaciones +"";
+        return  "La Estudiante " + nombreEstudiante + ". Con las siguentes calificaciones " + califMateria1 +", "+ califMateria2 + ", "+califMateria3 +". Su promedio es " + promedioCalificaciones +"";
     }
 
     
